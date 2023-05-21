@@ -1,0 +1,11 @@
+C:\ProgiMSVisual\PILaba2\PILaba2\bin\Debug\PILaba2.exe.config
+C:\ProgiMSVisual\PILaba2\PILaba2\bin\Debug\PILaba2.exe
+C:\ProgiMSVisual\PILaba2\PILaba2\bin\Debug\PILaba2.pdb
+C:\ProgiMSVisual\PILaba2\PILaba2\obj\Debug\PILaba2.csproj.AssemblyReference.cache
+C:\ProgiMSVisual\PILaba2\PILaba2\obj\Debug\PILaba2.csproj.SuggestedBindingRedirects.cache
+C:\ProgiMSVisual\PILaba2\PILaba2\obj\Debug\PILaba2.Form1.resources
+C:\ProgiMSVisual\PILaba2\PILaba2\obj\Debug\PILaba2.Properties.Resources.resources
+C:\ProgiMSVisual\PILaba2\PILaba2\obj\Debug\PILaba2.csproj.GenerateResource.cache
+C:\ProgiMSVisual\PILaba2\PILaba2\obj\Debug\PILaba2.csproj.CoreCompileInputs.cache
+C:\ProgiMSVisual\PILaba2\PILaba2\obj\Debug\PILaba2.exe
+C:\ProgiMSVisual\PILaba2\PILaba2\obj\Debug\PILaba2.pdb
